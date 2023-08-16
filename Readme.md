@@ -1,0 +1,2 @@
+This Code Automates the creation of the EC2 and S3 in AWS cloud. This has been achieved using Terraform 
+Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services

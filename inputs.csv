@@ -1,0 +1,2 @@
+local_id,instance_type,user_data,subnet_id ,ami,availability_zone,size,type,security_groups 
+foo1,t3a.medium,scripts/user-data.sh,subnet-09d518952777b1a61 ,ami-053b0d53c279acc90,us-east-1a,10,standard,sg-0a91f2b9fa5cf55e4 
