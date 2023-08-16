@@ -1,4 +1,4 @@
-sudo echo "Docker Installation Started......................" > /mnt/docker.log
+sudo echo "Docker Installation Started..........................." > /mnt/docker.log
 sudo apt-get update -y
 sudo apt-get install ca-certificates curl gnupg -y
 sudo install -m 0755 -d /etc/apt/keyrings 
@@ -10,4 +10,4 @@ echo \
 sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt-get update -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
-sudo echo "Docker Installation Completed......................" >> /mnt/docker.log
+sudo echo "Docker Installation Completed..........................." >> /mnt/docker.log
